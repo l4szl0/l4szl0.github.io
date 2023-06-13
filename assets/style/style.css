@@ -794,7 +794,8 @@ button {
 .footer__title,
 .footer__subtitle,
 .footer__link,
-.footer__social {
+.footer__social,
+.footer__copy {
     color: #fff;
 }
 
