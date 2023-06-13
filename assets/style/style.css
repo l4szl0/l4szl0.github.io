@@ -750,7 +750,7 @@ button {
 }
 
 .footer__bg {
-    background-color: var(--first-color-second);
+    background-color: var(--first-color);
     padding: 2rem 0 3rem;
 }
 
