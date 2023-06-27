@@ -378,6 +378,7 @@ button {
     padding: 1rem;
     border-radius: .5rem;
     font-weight: var(--font-medium);
+    margin-right: var(--mb-0-5);
 }
 
 .button:hover {
